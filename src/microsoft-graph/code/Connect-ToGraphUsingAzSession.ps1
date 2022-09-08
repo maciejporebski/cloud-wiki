@@ -1,0 +1,1 @@
+Connect-MgGraph -AccessToken (Get-AzAccessToken -ResourceTypeName MSGraph).Token

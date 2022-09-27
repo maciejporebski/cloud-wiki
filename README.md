@@ -7,6 +7,7 @@ A collection of various markdown docs and scripts I use day-to-day to manage Azu
 - [Azure DevOps](src/azure-devops)
     - [Code](src/azure-ad/code)
         - [Get an Azure AD Token Using an Interactive Flow in C#](src/azure-ad/code/GetInteractiveToken.cs)
+        - [Search Azure DevOps Repositories](src/azure-devops/code/Search-AzureDevOpsRepos.ps1)
 - [Microsoft Graph](src/microsoft-graph)
     - [Code](src/microsoft-graph/code)
         - [Connect to Microsoft Graph Using the Az Session](src/microsoft-graph/code/Connect-ToGraphUsingAzSession.ps1)

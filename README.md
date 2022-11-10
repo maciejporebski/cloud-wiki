@@ -11,7 +11,7 @@ A collection of various markdown docs and scripts I use day-to-day to manage Azu
 - [Azure Log Analytics](src/azure-log-analytics)
     - [Queries](src/azure-log-analytics/queries)
         - [Azure Key Vault](src/azure-log-analytics/queries/azure-key-vault)
-        - [Key Vaults With Calls Using Insecure TLS](src/azure-log-analytics/queries/azure-key-vault/key-vaults-with-calls-using-insecure-tls.kql)
+            - [Key Vaults With Calls Using Insecure TLS](src/azure-log-analytics/queries/azure-key-vault/key-vaults-with-calls-using-insecure-tls.kql)
 - [Microsoft Graph](src/microsoft-graph)
     - [Code](src/microsoft-graph/code)
         - [Connect to Microsoft Graph Using the Az Session](src/microsoft-graph/code/Connect-ToGraphUsingAzSession.ps1)

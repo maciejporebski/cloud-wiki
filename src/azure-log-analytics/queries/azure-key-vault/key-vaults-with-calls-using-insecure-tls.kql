@@ -1,0 +1,5 @@
+AzureDiagnostics
+| where TimeGenerated > ago(90d)
+| where Category == "AuditEvent"
+| where tlsVersion_s in ('TLS1_0','TLS1_1')
+| summarize count() by _ResourceId

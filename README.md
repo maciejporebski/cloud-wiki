@@ -17,4 +17,4 @@ A collection of various markdown docs and scripts I use day-to-day to manage Azu
         - [Connect to Microsoft Graph Using the Az Session](src/microsoft-graph/code/Connect-ToGraphUsingAzSession.ps1)
 - [Azure Storage](src/azure-storage)
 -   - [Code](src/azure-storage/code)
--       - [Get Public Blob Containers](src/azure-storage/code/Get-PublicBlobContainers.ps1)
+        - [Get Public Blob Containers](src/azure-storage/code/Get-PublicBlobContainers.ps1)

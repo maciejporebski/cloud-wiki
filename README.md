@@ -18,3 +18,6 @@ A collection of various markdown docs and scripts I use day-to-day to manage Azu
 - [Azure Storage](src/azure-storage)
 -   - [Code](src/azure-storage/code)
         - [Get Public Blob Containers](src/azure-storage/code/Get-PublicBlobContainers.ps1)
+- [Azure Service Bus](src/azure-service-bus)
+    - [Code](src/azure-service-bus/code)
+        - [Peek Messages Using Azure AD Authentication](src/azure-service-bus/code/Peek-Messages.ps1)
